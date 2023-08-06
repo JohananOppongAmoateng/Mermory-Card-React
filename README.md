@@ -1,5 +1,7 @@
 The Odin Project
+
 Project: Memory Card 
+
 Introduction
 Here we go again with a new project! Let’s make sure you understand the concepts so far. The main goal of this project is to concepts and hooks learned thus far to manage and utilize state while fetching and using data from an external API.
 
